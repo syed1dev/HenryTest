@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gBHsBJAORf2VGjouZRTwhu0F+r+u4TRBnLtgNG0lTkc=",
+  "Source": "ReservationBackend",
+  "BasePath": "_content/ReservationBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

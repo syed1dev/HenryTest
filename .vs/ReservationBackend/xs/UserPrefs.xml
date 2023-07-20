@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{E7EF2850-AD11-4845-A0CD-3F39CEAE3620}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReservationBackend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReservationBackend/Program.cs">
+    <Files>
+      <File FileName="ReservationBackend/Models/Providers.cs" Line="17" Column="1" />
+      <File FileName="ReservationBackend/Models/Client.cs" Line="10" Column="1" />
+      <File FileName="ReservationBackend/Models/Reservation.cs" Line="12" Column="54" />
+      <File FileName="ReservationBackend/Controllers/ProviderController.cs" Line="16" Column="46" />
+      <File FileName="ReservationBackend/Controllers/ClientsController.cs" Line="18" Column="54" />
+      <File FileName="ReservationBackend/Controllers/ReservationsController.cs" Line="16" Column="46" />
+      <File FileName="ReservationBackend/DBContext/ReservationDBContext.cs" Line="8" Column="35" />
+      <File FileName="ReservationBackend/Program.cs" Line="10" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReservationBackend" expanded="True">
+            <Node name="ReservationBackend" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="DBContext" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
